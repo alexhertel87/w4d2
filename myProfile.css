@@ -1,0 +1,25 @@
+h1.my-name{
+   color: green;
+   padding: 10px 20px;
+   font-family: fantasy;
+}
+
+ul.my-details{
+   border: 5px solid peru;
+   border-style: dotted ;
+   padding: 20px;
+   font-family: fantasy;
+   font-weight:700;
+}
+
+li.detail{
+list-style-type: square;
+padding: 5px;
+}
+
+clock.current-time{
+list-style-type: square;
+font-family:monospace;
+font-size: 12pt;
+border: 10px;
+}
